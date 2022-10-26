@@ -1,7 +1,7 @@
 # brainfuck compiler
 simple brainfuck compiler written in go
 
-## requierments
+## requirements
 - go 1.19+
 
 ## build
