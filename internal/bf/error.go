@@ -5,5 +5,5 @@ import (
 )
 
 var (
-	NotOpenedCycleError = errors.New("cycle not opened but close operator used")
+	ErrNotOpenedCycle = errors.New("cycle not opened but close operator used")
 )
