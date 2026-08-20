@@ -41,4 +41,8 @@ Compile program:
 
 ```bash
 ./bf hello.bf
+<<<<<<< HEAD
 ```
+=======
+```
+>>>>>>> refs/remotes/origin/master
