@@ -26,12 +26,12 @@ cd bf
 Build:
 
 ```bash
-go build -o bf cmd/main.go
+go build -o bf cmd/bf/main.go
 ```
 
 > **Requirements**
 >
-> - Go 1.19+
+> - Go 1.26+
 
 ---
 
@@ -40,5 +40,5 @@ go build -o bf cmd/main.go
 Compile program:
 
 ```bash
-./bf hello.bf
+./bf build example/sum.bf
 ```
