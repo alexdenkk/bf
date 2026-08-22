@@ -6,7 +6,7 @@
 
 Compile **Brainfuck** programs into native executables using **Go**.
 
-![Go](https://img.shields.io/badge/Go-1.19+-00ADD8?logo=go)
+![Go](https://img.shields.io/badge/Go-1.26-00ADD8?logo=go)
 ![GitHub stars](https://img.shields.io/github/stars/alexdenkk/bf)
 ![GitHub issues](https://img.shields.io/github/issues/alexdenkk/bf)
 
